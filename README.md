@@ -3,5 +3,5 @@ Assignment6
 
 Assignment6
 
-Beginner stuff + OpenFrameworks app
+Processing Beginner stuff + OpenFrameworks app
 
